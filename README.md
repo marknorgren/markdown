@@ -10,6 +10,8 @@
 
 ## Lucid Examples
 
+[Example Chart](https://lucid.app/lucidchart/invitations/accept/inv_2aa0a22d-1f65-4f0a-86e9-ec34d91f2af9)
+
 ### Area Selection
 
 ![Lucid chart](https://lucid.app/publicSegments/view/f532e0aa-6110-4ebc-ad9c-95da6acbe86f/image.png)
