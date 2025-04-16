@@ -4,7 +4,7 @@
 
 - ✅ `[words.txt](words.txt)` - [words.txt](words.txt)
 - ❌ `[](words.txt)` - [](words.txt)
-- ✅ `[words.txt]()` - [words.txt]()
+- ❌ `[words.txt]()` - [words.txt]()
 - ❌ `(words.txt)` - (words.txt)
 
 
